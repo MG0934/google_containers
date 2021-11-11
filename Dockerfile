@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.1
+FROM quay.io/fluentd_elasticsearch/elasticsearch:v7.10.2
