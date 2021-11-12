@@ -1,1 +1,1 @@
-FROM quay.io/fluentd_elasticsearch/elasticsearch:v7.10.2
+FROM docker.io/bitnami/zookeeper:3.6.0-debian-10-r41
