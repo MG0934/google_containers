@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM k8s.gcr.io/ingress-nginx/controller:v1.0.4
