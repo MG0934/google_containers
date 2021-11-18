@@ -1,1 +1,1 @@
-FROM nacos/nacos-peer-finder-plugin:1.1
+FROM coredns/coredns
