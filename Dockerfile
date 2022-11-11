@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+FROM docker.io/istio/examples-bookinfo-productpage-v1:1.17.0
